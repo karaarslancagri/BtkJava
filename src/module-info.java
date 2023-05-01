@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author karaa
- *
- */
-module springIntro {
-}
